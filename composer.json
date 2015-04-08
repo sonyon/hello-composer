@@ -1,5 +1,5 @@
 {
-    "name": "andrioli/hello-composer",
+    "name": "sonyon/hello-composer",
     "description": "Dummy package, just to test composer.",
     "license": "WTFPL",
     "authors": [
