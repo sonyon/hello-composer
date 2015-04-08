@@ -13,7 +13,8 @@
         "phpunit/phpunit": "4.4.*"
     },
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+          "weboap/winput": "dev-master"
     },
     "autoload": {
         "psr-0": {
